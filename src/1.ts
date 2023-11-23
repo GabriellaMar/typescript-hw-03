@@ -13,4 +13,4 @@ class Student {
   }
 }
 
-export {};
+export { };
